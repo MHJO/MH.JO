@@ -1,2 +1,1 @@
 # MH.JO
-portfolio
